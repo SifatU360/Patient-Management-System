@@ -219,3 +219,5 @@ def delete_patient(patient_id: int):
 # myenv/Scripts/activate
 # pip install fastapi uvicorn pydantic
 # uvicorn main:app --reload
+
+
